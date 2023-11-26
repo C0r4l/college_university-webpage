@@ -85,7 +85,8 @@ body {
 }
 
  .actors {
-      
+      padding: 0;
+      margin: auto;
       list-style: none;
       display: flex;
       justify-content: center;
